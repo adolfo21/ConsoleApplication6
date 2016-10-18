@@ -71,4 +71,11 @@ namespace ConsoleApplication6
 	/*
         elementos sorpresadwlkwdkfkpwfkop
 	*/
+	
+	
+	/*
+        elementos sorpresadwlkwdkfkpwfkop  ewmefmegvemgelwemgvbemlrmglrmhrmfdlmmgel[mlgmrelgmelrgmld;gm;legm;lemg;lerm;mg;lmel;gmdr]
+	*/
+	
+	
 	}
