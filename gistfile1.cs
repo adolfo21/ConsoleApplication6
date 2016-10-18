@@ -68,4 +68,7 @@ namespace ConsoleApplication6
             Console.ReadLine();
         }
     }
-}
+	/*
+        elementos sorpresadwlkwdkfkpwfkop
+	*/
+	}
